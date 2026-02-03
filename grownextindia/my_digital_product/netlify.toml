@@ -1,0 +1,4 @@
+[build]
+  base = "grownextindia/my_digital_product"
+  command = "npm run build"
+  publish = "dist"
